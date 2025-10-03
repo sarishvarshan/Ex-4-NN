@@ -1,6 +1,6 @@
 
-<H3>ENTER YOUR NAME: Sarish Varshan V</H3>
-<H3>ENTER YOUR REGISTER NO: 212223230196</H3>
+<H3> NAME: Sarish Varshan V</H3>
+<H3>REG NO: 212223230196</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE:03/10/2025</H3>
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
