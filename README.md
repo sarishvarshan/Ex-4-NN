@@ -163,8 +163,8 @@ print("\nAccuracy Score:\n", accuracy_score(y_test, predictions))
 ```
 
 <H3>Output:</H3>
+<img width="896" height="636" alt="image" src="https://github.com/user-attachments/assets/0b16b258-1b41-46e5-a8e5-7569fa4d2f2a" />
 
-![alt text](image.png)
 
 <H3>Result:</H3>
 Thus, MLP is implemented for multi-classification using python.
